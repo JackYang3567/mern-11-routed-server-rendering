@@ -1,5 +1,6 @@
 # mern-11-routed-server-rendering
-
+## Usage
+### Installing 
 npm install --save express
 npm install --save-dev babel-cli babel-preset-react
 
